@@ -1,0 +1,92 @@
+.header{
+	width: 1440px;
+	margin: 0 auto;
+}
+.image-logo{
+	vertical-align: middle;
+	display: inline-block;
+	margin-right:22px ;
+	color: red;
+
+}
+
+.div-nav{
+	display: inline-block;
+	
+}
+.li{
+	display: inline-block;
+}
+.image{
+	vertical-align: middle;
+}
+/*section2*/
+.conteiner{
+	width: 1160px;
+	margin: 0 auto;
+	position: relative;
+}
+.conteiner2{
+	width: 1160px;
+	margin: 0 auto;
+	position: relative;
+}
+.block1{
+	display: inline-block;
+	margin-right: 20px;
+	position: relative;
+}
+.image-text{
+	position: absolute;
+	top: 28px;
+	left: 40px;
+}
+.block2{
+	display: inline-block;
+  
+	position: relative;
+}
+.block3{
+	display: inline-block;
+	position: relative;
+	margin-left: 20px;
+}
+
+.text{
+	text-align: center;
+	width: 280px;
+	margin: 66px 40px 66px 40px;
+}
+.text-block{
+	position: absolute;
+	top: 400px;
+	right: 300px;
+}
+.left-block{
+	display: inline-block;
+	width: 720px;
+	position: relative;
+	margin-right: 60px;
+
+}
+.right-block{
+	display: inline-block;
+	width: 300px;
+	height: 850px;
+    position: relative;
+    
+
+}
+.text-image{
+	position: absolute;
+	top: 18px;
+	left: 40px;
+}
+.satauri{
+	margin: 25px 275px 40px 0;
+	font-family: 'Beau Rivage';
+}
+.satauri2{
+	margin: 0 530px 140px 0;
+	font-family: 'Beau Rivage';
+}
